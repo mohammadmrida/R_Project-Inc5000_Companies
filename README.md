@@ -17,7 +17,7 @@
 (---)
 ### :mag_right: EDA - Exploratory Data Analysis:
 
-#### :high_brightness:  Scatter plot
+#### :high_brightness:  Scatter plot to show Ranks of Worker
 <p align="center">
   <img src="Scatter plot_using ggplot2.png" width="70%" title="hover text">
 </p>
